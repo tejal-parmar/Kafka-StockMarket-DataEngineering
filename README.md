@@ -1,5 +1,5 @@
 # Stock Market Data Engineering using Kafka
-End-to-end Data Engineering project on real time stock market data using Apache Kafka, Python and Amazon Web Services (AWS).
+End-to-end Data Engineering project on real time stock market data using Kafka, Python and Amazon Web Services (AWS).
 
 ## Architecture
 ![Architecture](https://github.com/tejal-parmar/Kafka-StockMarket-DataEngineering/assets/111147531/936f2d7a-cc67-4a5b-9c49-03b2977222d5)
@@ -17,7 +17,7 @@ End-to-end Data Engineering project on real time stock market data using Apache 
 ## Dataset
 Stock market dataset from Kaggle in csv format
 
-## Apache Kafka
+## Kafka
   - A real-time stream engine
   - A distributed event store and stream-processing platform
 
